@@ -1,2 +1,2 @@
-# Trabalho_de_Programa-o_Web
+# Trabalho_de_Programação_Web
 Criação de loja online usando JAVA EE.
